@@ -48,7 +48,14 @@ Choise "Reopen in Container"
 ![image](https://user-images.githubusercontent.com/32987034/132097977-7cf42093-120c-40ee-bc71-f5cea9a125d9.png)
 
 
-
 The following window will give the same results as above.
 
 ![image](https://user-images.githubusercontent.com/32987034/132096525-3a14e46d-a980-400c-b550-bc8760271289.png)
+
+### Compile ReScript
+
+```
+npm run build
+```
+
+js code in`lib/src/`
