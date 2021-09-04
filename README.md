@@ -2,28 +2,30 @@
 
 ## Getting Start
 
-### Setup Software
+### Setup
 
-#### Install Visual Studio Code
+#### Visual Studio Code
 
 Install visual studio code in your local environment.
 
 [Download Visual Studio Code](https://code.visualstudio.com/download)
 
-#### Add Remote-Containers Extension
+#### Add Remote-Containers
 
-In addition, Get Extension in Your Visual Studio Code.
+In addition, Get Remote-Containers Extension in Your Visual Studio Code.
 
 [Remote - Containers - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
-#### Install Docker
+#### Docker
 
 Install docker in your local environment.
 
 https://docs.docker.com/get-docker/
 
-#### Install Docker
+#### Docker-compose
 
 Install docker-compose in your local environment.
 
 https://docs.docker.com/compose/install/
+
+### Open In Container
