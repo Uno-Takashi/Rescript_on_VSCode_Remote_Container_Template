@@ -1,0 +1,10 @@
+version: '3'
+services:
+  rescript:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: 'ReScript'
+    tty: true
+    volumes:
+      - ../:/usr/src/app

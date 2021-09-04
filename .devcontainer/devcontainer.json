@@ -1,0 +1,20 @@
+{
+    "name": "ReScript",
+    "dockerComposeFile": [
+        "docker-compose.yml"
+    ],
+    "service": "rescript",
+    "workspaceFolder": "/usr/src/app/",
+    "settings": {    
+        "editor.formatOnSave": true, // ファイルセーブ時にフォーマットかけるように設定
+        "editor.formatOnPaste": true
+    },
+    "extensions": [
+		"ms-azuretools.vscode-docker",
+		"ms-vsliveshare.vsliveshare",
+		"yzhang.markdown-all-in-one",
+		"chenglou92.rescript-vscode"
+	]
+}
+
+
