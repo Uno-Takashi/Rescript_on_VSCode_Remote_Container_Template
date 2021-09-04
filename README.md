@@ -54,8 +54,10 @@ The following window will give the same results as above.
 
 ### Compile ReScript
 
+`Ctrl + Shift + B` on .res file or execute follow command on terminal.
+
 ```
 npm run build
 ```
 
-js code in`lib/src/`
+.js file in`lib/js/`
