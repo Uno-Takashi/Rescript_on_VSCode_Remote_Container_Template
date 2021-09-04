@@ -7,4 +7,4 @@ services:
     container_name: 'ReScript'
     tty: true
     volumes:
-      - ../:/usr/src/app
+      - ./:/workspaces/project
