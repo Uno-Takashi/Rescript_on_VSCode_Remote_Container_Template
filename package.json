@@ -12,6 +12,7 @@
   "author": "YourName",
   "license": "MIT",
   "devDependencies": {
-    "rescript": "^9.1.4"
+    "rescript": "^9.1.4",
+    "rescript-test": "^3.1.0"
   }
 }
